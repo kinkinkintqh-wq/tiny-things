@@ -4,7 +4,7 @@
 
 ![Tiny Things](tiny-things-logo-256.png)
 
-[评审体验入口](https://tiny-things.43.167.174.154.sslip.io/demo) · [61秒真实操作视频](https://raw.githubusercontent.com/kinkinkintqh-wq/tiny-things/main/tiny-things-demo-61s-20261113.mp4) · [完整项目说明](project-description.md)
+[评审体验入口](https://tiny-things.43.167.174.154.sslip.io/demo) · [61秒真实操作视频（下载）](https://raw.githubusercontent.com/kinkinkintqh-wq/tiny-things/main/tiny-things-demo-61s-20261113.mp4) · [完整项目说明](project-description.md)
 
 ## 当前进度（2026-11-13）
 
@@ -51,10 +51,10 @@ npm run dev
 
 Node.js 22+；打开 http://127.0.0.1:3846 。无需数据库即可运行本机制作、预览、导入导出和快照试玩。
 
-源码包SHA256：e2723a3195ba3a535ceef27e6ae2c76bbb55f5f20dbba3d2ebf01b7f8c685e86 。[包信息](SOURCE-PACKAGE.json)。
+源码包SHA256：97e57d9252f45c23080ed2630d9d750f72ae02878232ae385dc0caf0e5f0d5f1 。[包信息](SOURCE-PACKAGE.json)。
 
 ## 演示
 
-61秒、1920×1080，真实网页操作录屏，云朵八音盒配乐、无旁白；骰子流程剪至4秒并标明剪短，信件展示保持音乐。[下载/观看视频](tiny-things-demo-61s-20261113.mp4)。
+61秒、1920×1080，真实网页操作录屏，云朵八音盒配乐、无旁白；骰子流程剪至4秒并标明剪短，信件展示保持音乐。[下载MP4视频（本地播放）](tiny-things-demo-61s-20261113.mp4)。
 
 [报名项目字段](form-fields.md)。个人资料、最终条款和报名提交由参赛者本人完成，不把材料准备等同于已报名。

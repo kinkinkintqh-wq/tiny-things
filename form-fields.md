@@ -11,7 +11,7 @@ Tiny Things｜小东西制造所，让普通人像拼乐高一样，用按钮、
 ## Github repo
 https://github.com/kinkinkintqh-wq/tiny-things
 
-正式源码包更新须在提交前核实，不把本地打包当作已发布。
+公开仓库已更新214文件正式源码包、两枚电路凭证及项目说明；视频引入提交9531d57f1d0943723a6ed5e1f18d8d3be53bb646。
 
 ## Project website
 https://tiny-things.43.167.174.154.sslip.io/demo
@@ -19,9 +19,11 @@ https://tiny-things.43.167.174.154.sslip.io/demo
 2026-11-13 只读检查返回 HTTP 200。当前继续测试基础零件及组合；公众试玩开放安排与评审访问链接分开说明。
 
 ## Demo video
-用户已确认：outputs/tiny-things-misa-61s-musicbox-20261113.mp4（61秒，真实操作录屏，云朵八音盒，去掉旁白）。
+https://raw.githubusercontent.com/kinkinkintqh-wq/tiny-things/main/tiny-things-demo-61s-20261113.mp4
 
-最终公网视频链接尚待上传/核实；勿沿用已被替换的截图串联视频。另准备69秒参赛审核版，补充目标用户和商业计划两条字幕，未经确认不替换已选版本。
+用户已确认的61秒真实操作录屏，1920×1080、云朵八音盒配乐、无旁白；骰子过程剪至4秒。公开MP4地址已验证HTTP 206、支持分段下载；GitHub以application/octet-stream提供，因此浏览器可能下载后播放。文件SHA256：54f4c4a5b6019775ca3c8bfce473c9c6b610a3493316931dcd5b1788e9c762f8。
+
+另有69秒本地参赛审核版，增加目标用户与商业计划字幕；未自动替换已确认61秒版。若报名使用已发布推文的视频地址，由用户自行确认并填写该推文链接。
 
 ## Logo
 outputs/tiny-things-logo-256.png，256×256 PNG，5423字节。

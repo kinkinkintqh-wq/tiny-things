@@ -11,6 +11,8 @@
   "music": "original project musicbox.wav",
   "diceSequenceSeconds": 4,
   "audio": "continuous through the letter; only final 0.8s fade",
-  "publicURL": null,
-  "publication": "Prepared; final public link must be verified before submission"
+  "publicURL": "https://raw.githubusercontent.com/kinkinkintqh-wq/tiny-things/main/tiny-things-demo-61s-20261113.mp4",
+  "publication": "Published in GitHub commit 9531d57f1d0943723a6ed5e1f18d8d3be53bb646; external HTTP 206 range verified",
+  "contentType": "application/octet-stream",
+  "deliveryNote": "Public downloadable MP4; GitHub repository viewer cannot show this file size inline."
 }

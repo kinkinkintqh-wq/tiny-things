@@ -51,6 +51,6 @@
 ## 提交链接与边界
 
 - 网站：https://tiny-things.43.167.174.154.sslip.io/demo 。2026-11-13 只读复查 HTTP 200；网站可访问不等于全部组合测试完成。
-- 仓库：https://github.com/kinkinkintqh-wq/tiny-things 。本次正式版本更新状态以仓库实际提交为准。
-- 已确认演示：61 秒真实网页操作录屏、云朵八音盒配乐、无旁白；骰子过程剪至 4 秒并标明剪短。最终公开视频地址另行核实，不能用本机路径当提交链接。
+- 仓库：https://github.com/kinkinkintqh-wq/tiny-things 。已发布正式源码包、链上凭证和61秒视频，视频引入提交9531d57。
+- 已确认演示：61 秒真实网页操作录屏、云朵八音盒配乐、无旁白；骰子过程剪至 4 秒并标明剪短。公开视频下载链接：https://raw.githubusercontent.com/kinkinkintqh-wq/tiny-things/main/tiny-things-demo-61s-20261113.mp4 。已验证HTTP 206分段读取；GitHub可能以下载方式打开。
 - 快照包含明文内容，小游戏用于惊喜体验，不构成加密；浏览器随机数不宣称公平证明，进度不宣称链上保存。红包、资金托管、收入分账和作品链上身份历史均不作为当前已实现功能。

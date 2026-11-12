@@ -1,7 +1,7 @@
 {
   "archive": "tiny-things-source-20261113.zip",
   "files": 214,
-  "bytes": 4633066,
-  "sha256": "e2723a3195ba3a535ceef27e6ae2c76bbb55f5f20dbba3d2ebf01b7f8c685e86",
+  "bytes": 4633551,
+  "sha256": "97e57d9252f45c23080ed2630d9d750f72ae02878232ae385dc0caf0e5f0d5f1",
   "note": "Allowlist package; code scan is not an exhaustive security audit. Formal circuits 6/7 verified; public website acceptance is recorded separately."
 }
