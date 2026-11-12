@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-13",
+  "file": "tiny-things-misa-61s-musicbox-20261113.mp4",
+  "sha256": "54f4c4a5b6019775ca3c8bfce473c9c6b610a3493316931dcd5b1788e9c762f8",
+  "bytes": 12570493,
+  "durationSeconds": 61.00666666666667,
+  "width": 1920,
+  "height": 1080,
+  "capture": "actual Chrome UI footage, ScreenCaptureKit window-only",
+  "narration": false,
+  "music": "original project musicbox.wav",
+  "diceSequenceSeconds": 4,
+  "audio": "continuous through the letter; only final 0.8s fade",
+  "publicURL": null,
+  "publication": "Prepared; final public link must be verified before submission"
+}

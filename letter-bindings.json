@@ -1,0 +1,8 @@
+{
+  "chainId": 196,
+  "processor": "0x9e2849c04A513FE64db07521cBE52d078d905c0E",
+  "deployedBy": "0x375abb0e951addda5538e38ac5bcfce814a14752",
+  "verifiedDate": "2026-11-12",
+  "sum": {"id": "6", "txHash": "0xd9462c7f7df737fcf0f7ea0501a4476b478688e9a61be15d078662662be01759", "sha256": "11e22714ac78680b785212f53fb3e1e9e9edbb8de9ed9c00b785dc4d1fe53759", "proofBlock": "75710428", "vectors": 44},
+  "matches": {"id": "7", "txHash": "0x5951a8666fabde06a29c8996609420f4d5b476a698952a8d5e03ddb1d5ee6b69", "sha256": "3d232c1b196ea8f2e2381ae802f25799aebe902498c1bfa5d22afbd5fda65e47", "proofBlock": "75710509", "vectors": 44}
+}
